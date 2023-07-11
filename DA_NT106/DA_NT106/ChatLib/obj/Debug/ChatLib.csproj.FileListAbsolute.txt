@@ -1,0 +1,7 @@
+G:\DA_NT106\ChatLib\bin\Debug\ChatLib.dll.config
+G:\DA_NT106\ChatLib\bin\Debug\ChatLib.dll
+G:\DA_NT106\ChatLib\bin\Debug\ChatLib.pdb
+G:\DA_NT106\ChatLib\obj\Debug\ChatLib.csproj.AssemblyReference.cache
+G:\DA_NT106\ChatLib\obj\Debug\ChatLib.csproj.CoreCompileInputs.cache
+G:\DA_NT106\ChatLib\obj\Debug\ChatLib.dll
+G:\DA_NT106\ChatLib\obj\Debug\ChatLib.pdb

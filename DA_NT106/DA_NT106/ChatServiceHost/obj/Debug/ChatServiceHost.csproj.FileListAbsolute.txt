@@ -1,0 +1,13 @@
+G:\DA_NT106\ChatServiceHost\bin\Debug\ChatServiceHost.exe.config
+G:\DA_NT106\ChatServiceHost\bin\Debug\ChatServiceHost.exe
+G:\DA_NT106\ChatServiceHost\bin\Debug\ChatServiceHost.pdb
+G:\DA_NT106\ChatServiceHost\bin\Debug\ChatLib.dll
+G:\DA_NT106\ChatServiceHost\bin\Debug\ChatLib.pdb
+G:\DA_NT106\ChatServiceHost\bin\Debug\ChatLib.dll.config
+G:\DA_NT106\ChatServiceHost\obj\Debug\ChatServiceHost.csproj.AssemblyReference.cache
+G:\DA_NT106\ChatServiceHost\obj\Debug\ChatServiceHost.csproj.CoreCompileInputs.cache
+G:\DA_NT106\ChatServiceHost\obj\Debug\ChatServiceHost.csproj.CopyComplete
+G:\DA_NT106\ChatServiceHost\obj\Debug\ChatServiceHost.exe
+G:\DA_NT106\ChatServiceHost\obj\Debug\ChatServiceHost.pdb
+C:\Users\Ngoc Thien\Desktop\DA_NT106\DA_NT106\ChatServiceHost\obj\Debug\ChatServiceHost.exe
+C:\Users\Ngoc Thien\Desktop\DA_NT106\DA_NT106\ChatServiceHost\obj\Debug\ChatServiceHost.pdb
